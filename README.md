@@ -38,7 +38,7 @@
 ## Screenshots
 
 ## User side
-<img src="https://github.com/nevilsonani/Smart_Resume_Analyser_App/blob/master/sc1.png">
+<img src="C:\Users\nevil\Downloads\Smart_Resume_Analyser_App-master\Smart_Resume_Analyser_App-master\sc1.png">
 
 ## Admin Side
 <img src="https://github.com/nevilsonani/Smart_Resume_Analyser_App/blob/master/sc2.png">
