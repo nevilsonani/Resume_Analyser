@@ -12,13 +12,34 @@
 - Skills Recommendations
 - Youtube video recommendations
 
-## Usage
-- Clone my repository.
-- Open CMD in working directory.
+## Set Up & Installation of
+
+
+## Getting Started
+
+Clone the project
+
+```bash
+  git clone https://github.com/nevilsonani/TalentMatch.git
+```
+
+Go to the project directory
+
+```bash
+  cd my-project
+```
+
 - Run following command.
   ```
   pip install -r requirements.txt
   ```
+  
+Start the server
+
+```bash
+  python app.py
+```
+
 - `App.py` is the main Python file of Streamlit Web-Application. 
 - `Courses.py` is the Python file that contains courses and youtube video links.
 - Download XAMP or any other control panel, and turn on the Apache & SQL service.
@@ -27,9 +48,7 @@
   streamlit run App.py
   ```
 - `Uploaded_Resumes` folder is contaning the user's uploaded resumes.
-- `Classifier.py` is the main file which is containing a KNN Algorithm.
-- For more explanation of this project see the tutorial on Machine Learning Hub YouTube channel.
-- Admin side credentials is `machine_learning_hub` and password is `mlhub123`. 
+- `Classifier.py` is the main file which is containing a KNN Algorithm.. 
 
 ## Screenshots
 
