@@ -33,12 +33,6 @@ Run following command.
   ```bash
   pip install -r requirements.txt
   ```
-  
-Start the server
-
-```bash
-  python app.py
-```
 
 - `App.py` is the main Python file of Streamlit Web-Application. 
 - `Courses.py` is the Python file that contains courses and youtube video links.
