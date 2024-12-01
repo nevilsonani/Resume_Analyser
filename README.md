@@ -20,7 +20,7 @@
 Clone the project
 
 ```bash
-  git clone https://github.com/nevilsonani/TalentMatch.git
+  git clone https://github.com/nevilsonani/Resume_Analyser.git
 ```
 
 Go to the project directory
