@@ -29,8 +29,8 @@ Go to the project directory
   cd my-project
 ```
 
-- Run following command.
-  ```
+Run following command.
+  ```bash
   pip install -r requirements.txt
   ```
   
