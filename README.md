@@ -41,7 +41,7 @@
 <img src="https://github.com/nevilsonani/Resume_Analyser/blob/main/sc1.png">
 
 ## Admin Side
-<img src="https://github.com/nevilsonani/Smart_Resume_Analyser_App/blob/master/sc2.png">
+<img src="https://github.com/nevilsonani/Resume_Analyser/blob/main/sc2.png">
 
 
 
